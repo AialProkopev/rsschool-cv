@@ -1,27 +1,17 @@
----
-
 # Aial Prokopev
 
----
-
 ## Contacts:
-
----
 
 - **tel** : +79999626598
 - **email** : freezzforever@gmail.com
 
 ## About Myself:
 
----
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur eius in labore quidem, sequi suscipit!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aut commodi debitis ipsam nobis perspiciatis sequi, sint unde vitae.
 
 ## Skills:
-
----
 
 - HTML5, CSS3
 - JavaScript
@@ -37,8 +27,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aut commodi de
 - Figma
 
 ## Code Example:
-
----
 
 ```
 const ss16 = [
@@ -70,19 +58,13 @@ function rgb(r, g, b) {
 
 # Experience:
 
----
-
-- KidsTaxi - children's taxi aggregator (Since 2022 Q1)
+- **KidsTaxi** - children's taxi aggregator (Since 2022 Q1)
 
 # Education:
 
----
-
-- MIREA - RUSSIAN TECHNOLOGICAL UNIVERSITY
-  - INFORMATION SECURITY DEGREE (incomplete)
+- **MIREA - Russian Technological University**
+  - Information Security Degree (incomplete)
 
 # English:
 
----
-
-- A2
+- **A2**
