@@ -1,1 +1,1 @@
-# rsschool-cv
+https://aialprokopev.github.io/rsschool-cv/
